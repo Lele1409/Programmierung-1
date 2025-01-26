@@ -1,0 +1,5 @@
+Name der Variable |  Speicheradresse | Wert im Speicher | Typ der Variablen
+--------------------------------------------------------------------------
+x                 | 00000004ac9ffafc |                0 | int
+n                 | 00000004ac9ffaf8 |               10 | int
+y                 | 00000004ac9ffaf0 |      -1398801672 | pointer

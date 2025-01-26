@@ -3,6 +3,5 @@ project(prog1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(blatt8_1 blatt8/blatt8_1.c)
-add_executable(blatt8_2 blatt8/blatt8_2.c)
-add_executable(blatt8_3 blatt8/blatt8_3.c)
+add_executable(blatt12_1 blatt12/blatt12_1.c)
+add_executable(blatt12_2 blatt12/blatt12_2.c)

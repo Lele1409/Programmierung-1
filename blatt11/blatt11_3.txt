@@ -1,0 +1,2 @@
+a) Nach Ausführung der beiden Zeilen, zeigt de rZeiger 'ip' auf die Zelle mit Index 2. (Bzw. die dritte Zelle, da die Indexierung bei 0 beginnt.)
+b) Um der Speicherzelle auf die 'ip' aktuell zeigt, einen Wert zuzuweisen nutzen wir: '*ip = 255'. (Dadurch hat die Zelle 3. Position nun einen Wert von 255.)
