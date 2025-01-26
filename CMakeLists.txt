@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(blatt12_1 blatt12/blatt12_1.c)
 add_executable(blatt12_2 blatt12/blatt12_2.c)
+add_executable(blatt12_3 blatt12/blatt12_3.c)
